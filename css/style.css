@@ -171,7 +171,7 @@ h6 {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   letter-spacing: 3px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 #header #logo h1 span {
@@ -516,7 +516,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-family: "Raleway", sans-serif;
   font-size: 56px;
   font-weight: 600;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 #intro h1 span {
